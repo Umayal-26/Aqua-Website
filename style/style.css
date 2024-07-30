@@ -1,0 +1,106 @@
+.navbar{
+    background-color: orange;
+}
+.navbar:hover{
+    background-color: orangered;
+}
+.navbar brand{
+    color: white;
+}
+.d-block{
+    margin-top: 0px;
+    height: 630px;
+    width: 400px;
+}
+@media only screen and (min-width: 0px) and (max-width: 550px){
+    .d-block{
+        height: 350px;
+        width: 100%;
+    }
+}
+.carousel-inner{
+    margin-top: 0px;
+}
+.para{
+    padding: 40px;
+}
+.message:hover{
+    color: rgb(45, 104, 122);
+}
+.message{
+    color: brown;
+    font-weight: 650;
+}
+@media only screen and (min-width: 450px){
+    .video1{
+        text-align: center;
+    }
+}
+.varieties{
+    display: flex;
+    justify-content: center;
+}
+.card:hover{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+.exotic-page{
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+    padding: 5px;
+}
+.footer{
+    background-color: orange;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+}
+.footer:hover{
+    background-color: orangered;
+    color: black;
+}
+.order{
+    padding: 10px;
+}
+.card-body{
+    text-align: center;
+}
+.button1{
+    background-color: rgb(86, 156, 230);
+    border-radius: 5px;
+    
+}
+.cart{
+   background-color: rgb(82, 235, 82);
+   border-radius: 4px;
+   color: white;
+   font-weight: bold;
+   border: none;
+   padding: 6px;
+}
+.cart:hover{
+    background-color: red;
+    padding: 15px;
+}
+.form{
+    padding: 30px;
+    border: 5px solid;
+    margin: 20px;
+    margin-top: 30px;
+    margin-bottom:30px ;
+}
+.head{
+    text-align: center;
+    margin-top: 30px;
+}
+.signin{
+    padding: 40px;
+}
+.icon{
+    text-align: center;
+    padding-top: 10px;
+}
+
